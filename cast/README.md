@@ -1,6 +1,6 @@
 # Foundry Cast Cheatsheet
 
-### Instalation:
+### Installation:
 
 1. run `curl -L https://foundry.paradigm.xyz | bash`
     1. Warning: If on windows make sure to use “Git Bash” terminal (or WSL)
